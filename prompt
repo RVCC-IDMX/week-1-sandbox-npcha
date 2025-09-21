@@ -1,0 +1,87 @@
+Please create a new repository structure for a weekly learning sandbox. This is for students to experiment with code while creating knowledge base cards.
+
+Create the following structure:
+
+- Root folder with the repository files
+- Two empty subdirectories named "card1" and "card2" for student experiments
+- A README.md file with a reflection template
+- A comprehensive .gitignore file for Node.js web development
+
+For the README.md file, create a template with the following sections:
+
+# Week [#] Knowledge Base Learning Sandbox
+
+## Card Topics
+
+- Card 1: [Topic Name] - Issue #[number]
+- Card 2: [Topic Name] - Issue #[number]
+
+## Card 1 Learning Journey
+
+### Experiments Conducted
+
+[Describe what you tried]
+
+### Key Discoveries
+
+[What worked? What didn't?]
+
+### Challenges Faced
+
+[What was difficult?]
+
+## Card 2 Learning Journey
+
+### Experiments Conducted
+
+[Describe what you tried]
+
+### Key Discoveries
+
+[What worked? What didn't?]
+
+### Challenges Faced
+
+[What was difficult?]
+
+## Weekly Reflection
+
+### What concepts clicked for you this week?
+
+[Your response]
+
+### What are you still exploring?
+
+[Your response]
+
+### How did AI assistance help your learning?
+
+[Your response]
+
+### What will you do differently next week?
+
+[Your response]
+
+## Notes
+
+[Any additional thoughts, breakthrough moments, or questions]
+
+For the .gitignore file, include comprehensive ignore patterns for:
+
+- Node.js (node_modules, npm debug logs, yarn files)
+- Environment variables (.env files)
+- OS files (macOS .DS_Store, Windows Thumbs.db, Linux .directory)
+- Editor files (VS Code, Sublime, Vim, Emacs temporary files)
+- Build outputs (dist, build folders)
+- Log files
+- Temporary files
+- Coverage reports
+- Dependency directories
+- Cache directories (.cache, .parcel-cache, .next)
+- Any compiled output (.css.map, .js.map files)
+- .claude, CLAUDE.md
+- reports directory
+
+The card1 and card2 directories should be empty but tracked by git (you can add a .gitkeep file in each if needed to ensure they're included in the repository).
+
+This structure allows students to freely experiment in their card directories while maintaining a clean repository structure and documenting their learning journey in the README.
