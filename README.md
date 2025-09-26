@@ -24,37 +24,40 @@
 
 ### Experiments Conducted
 
-[Describe what you tried]
+[I tried making web interfaces by using several attributes and tags such as button, tablist, and summary ]
 
 ### Key Discoveries
 
-[What worked? What didn't?]
+[Using a button is probably easy because it is straightforward and allows customize freely. Tablist is quite difficult because there are aria-selected, aria-controls, etc. Lastly, I tried a summary, a straightforward like button, easy to easy-to-understand process. I feel like it is similar to buttons. ]
 
 ### Challenges Faced
 
-[What was difficult?]
+[The only challenges that I faced were establishing because no matter how much I tried or changed my code, the click didn't work. I tried to create two tabs that, when you click them in reveal different text, like if you click tab 1, it says good morning, but if you click tab 2, it says good afternoon.]
 
 ## Weekly Reflection
 
 ### What concepts clicked for you this week?
 
-[Your response]
+[I think the concepts that clicked for me were CSS Gradients because I had used them or learned about them before in my previous class, so I was already familiar with the concept. Also, this time I actually learn more about it, and there is so much more about the gradients in CSS that I didn't know]
 
 ### What are you still exploring?
 
-[Your response]
+[I definitely still exploring on create a tab because I still don't understand the tablish, I need to know how it actually work. Plus, there is many more way to create a tab interfaces]
 
 ### How did AI assistance help your learning?
 
-[Your response]
+[I didn't use much AI this time, but it did help me start and give me an idea of what to try]
 
 ### What will you do differently next week?
 
-[Your response]
+[I will do more research and look for more examples online. Also, try to write code by myself to see which works and which doesn't.]
 
 ## Notes
 
 **Source**: [CSS Gradients](https://www.w3schools.com/css/css3_gradients.asp)
 **Source**: [CSS Radial Gradients](https://www.w3schools.com/css/css3_gradients_radial.asp)
+**Source**: [How TO - Tabs](https://www.w3schools.com/howto/howto_js_tabs.asp)
+**Source**: [Responsive & accessible tabbed interfaces](https://www.makethingsaccessible.com/guides/responsive-and-accessible-tabbed-interfaces/)
+
 
 [Any additional thoughts, breakthrough moments, or questions]
